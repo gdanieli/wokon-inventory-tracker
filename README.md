@@ -1,4 +1,4 @@
-# 🛍️ Wokon Inventory tracker
+# 🛍️ Wokon Inventory Tracker
 
 A Streamlit app showing how to read and modify a product database. Behind the scenes
 this uses a ebay SDK, but you can easily replace it with whatever your favorite platform is.
